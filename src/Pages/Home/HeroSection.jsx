@@ -3,21 +3,24 @@ export default function HeroSection() {
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
-          <p className="section--title">Hey, I'm John</p>
+          <p className="section--title">Olá, eu me chamo Leticia</p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Full Stack</span>{" "}
+            <span className="hero--section-title--color">Ilustradora e</span>{" "}
             <br />
-            Developer
+            Escritora
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            <br /> Dolorum, quas. Amet soluta assumenda cum?
+            Sou ilustradora digital freelancer, especializada em capas, mapas fictícios e pôsteres. 
+            Transformo ideias em imagens que emocionam, conectando histórias e pessoas através da arte.
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        {/* Botão de Download do CV */}
+        <a href="/cv.pdf" download="Leticia_CV.pdf" className="mt btn btn-primary">
+          Baixar CV
+        </a>
       </div>
       <div className="hero--section--img">
-        <img src="./img/hero_img.png" alt="Hero Section" />
+        <img src="./img/leh-img-final.png" alt="Hero Section" />
       </div>
     </section>
   );

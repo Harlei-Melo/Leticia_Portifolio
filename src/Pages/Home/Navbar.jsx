@@ -35,7 +35,7 @@ function Navbar() {
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
       <div>
-        <img src="./img/logo.svg" alt="Logoipsum" />
+        <img src="./img/Logo-Leh.svg" alt="Logoipsum" />
       </div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
@@ -58,7 +58,7 @@ function Navbar() {
               to="heroSection"
               className="navbar--content"
             >
-              Home
+              Inicio
             </Link>
           </li>
           <li>
@@ -72,7 +72,7 @@ function Navbar() {
               to="MyPortfolio"
               className="navbar--content"
             >
-              Portfolio
+              Projetos
             </Link>
           </li>
           <li>
@@ -86,7 +86,7 @@ function Navbar() {
               to="AboutMe"
               className="navbar--content"
             >
-              About Me
+              Sobre Mim
             </Link>
           </li>
           <li>
@@ -100,7 +100,7 @@ function Navbar() {
               to="testimonial"
               className="navbar--content"
             >
-              Testimonials
+              Avaliações
             </Link>
           </li>
         </ul>
@@ -115,7 +115,7 @@ function Navbar() {
         to="Contact"
         className="btn btn-outline-primary"
       >
-        Contact Me
+        Vamos criar juntos
       </Link>
     </nav>
   );

@@ -2,50 +2,45 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/illustrator.svg",
+      "title": "Adobe Illustrator",
+      "description": "Ferramenta essencial para transformar ideias em arte digital. Utilizo o Adobe Illustrator para criar ilustrações editoriais, capas e mapas fictícios com precisão e criatividade."
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/Ibis-Logo.svg",
+      "title": "Ibis Paint",
+      "description": "Com o Ibis Paint, exploro novas possibilidades artísticas para desenvolver pôsteres e ilustrações detalhadas, sempre buscando inovação e emoção em cada traço."
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
-    },
-    {
-      "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/gallery-favorite.svg",
+      "title": "Wallpapers",
+      "description": "Criação de wallpapers únicos e inspiradores, combinando técnica e sensibilidade para transformar telas em verdadeiras obras de arte."
     }
+ 
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/Capa-1-MAPI.png",
+      "title": "Me amar por Inteira",
+      "description": "Uma releitura de autoconhecimento em cores suaves, convidando à reflexão sobre força e aceitação pessoal.",
+      "link": "Veja no Behance"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/Capa-2-Chuva.png",
+      "title": "Vitória-régia",
+      "description": "Numa versão vibrante, reforça a coragem de assumir sua essência, mesclando ousadia artística e autenticidade plena.",
+      "link": "Veja no Behance"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
+      "src": "./img/Capa-3-Caneca.png",
+      "title": "Me amar por Inteira V2",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "link": "Veja no Behance"
     }
   ],
   "testimonial": [
@@ -53,25 +48,19 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "description": "Uma arte que me fez refletir sobre a importância do amor-próprio e da aceitação."
     },
     {
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "description": "A delicadeza e os detalhes dessa ilustração transmitem paz e equilíbrio."
     },
     {
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "description": "Cores vibrantes e uma energia única que inspiram confiança e autenticidade."
     }
   ]
 }
