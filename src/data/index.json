@@ -2,7 +2,7 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/illustrator.svg",
+      "src": "./img/Adobe-logo.svg",
       "title": "Adobe Illustrator",
       "description": "Ferramenta essencial para transformar ideias em arte digital. Utilizo o Adobe Illustrator para criar ilustrações editoriais, capas e mapas fictícios com precisão e criatividade."
     },
@@ -14,9 +14,9 @@
     },
     {
       "id": "3",
-      "src": "./img/gallery-favorite.svg",
-      "title": "Wallpapers",
-      "description": "Criação de wallpapers únicos e inspiradores, combinando técnica e sensibilidade para transformar telas em verdadeiras obras de arte."
+      "src": "./img/Clip-Studio.svg",
+      "title": "Clip Studio Paint",
+      "description": "No Clip Studio Paint, consigo criar com precisão e fluidez. Suas ferramentas avançadas e pincéis personalizáveis tornam cada ilustração mais intuitiva e profissional."
     }
  
   ],
@@ -39,7 +39,7 @@
       "id": "3",
       "src": "./img/Capa-3-Caneca.png",
       "title": "Me amar por Inteira V2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Reflete a força da autodescoberta com cores vibrantes e traços expressivos. Uma releitura cheia de energia, que inspira autenticidade e empoderamento.",
       "link": "Veja no Behance"
     }
   ],

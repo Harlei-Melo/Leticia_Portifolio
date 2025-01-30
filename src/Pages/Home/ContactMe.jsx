@@ -12,7 +12,7 @@ export default function ContactMe() {
         {/* Email */}
         <div className="contact--info">
           <h3 className="text-md">Email</h3>
-          <p className="text-lg">leticia.art@gmail.com</p>
+          <p className="text-lg">leticia.cs.artista@gmail.com</p>
         </div>
 
         {/* Social Media */}

@@ -5,8 +5,7 @@ export default function MyPortfolio() {
     <section className="portfolio--section" id="MyPortfolio">
       <div className="portfolio--container-box">
         <div className="portfolio--container">
-          <p className="sub--title">Meus Últimos Projetos</p>
-          <h2 className="section--heading">Meu Portfolio</h2>
+          <h2 className="section--heading">Minhas Ilustrações</h2>
         </div>
         <div>
           {/* Link principal para o Behance */}

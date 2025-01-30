@@ -1,12 +1,23 @@
 /* Global CSS */
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho&display=swap');
 
 body {
   margin: 0;
-  font-family: "Roboto", sans-serif;
-  -webkit-font-smoothing: "Roboto", sans-serif;
-  -moz-osx-font-smoothing: "Roboto", sans-serif;
+  font-family: "Shippori Mincho", serif;
+  -webkit-font-smoothing: "Shippori Mincho", serif;
+  -moz-osx-font-smoothing: "Shippori Mincho", serif;
   font-style: normal;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  letter-spacing: 2px;
+}
+
 h1,
 h2,
 h3,
@@ -329,7 +340,7 @@ h2 {
 /* My Portfolio Starts */
 .portfolio--section {
   display: flex;
-  padding: 112px 85px;
+  padding: 90px 85px;
   flex-direction: column;
   align-items: flex-start;
   gap: 80px;
